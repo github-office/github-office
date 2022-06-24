@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://5b0988e595225.cdn.sohucs.com/images/20170802/e9522de028634f6fa2021bb241d4839f.gif" align="center" style="width: 80%" />
+<img src="https://5b0988e595225.cdn.sohucs.com/images/20170802/e9522de028634f6fa2021bb241d4839f.gif" align="center" style="width: 66%" />
 </div>  
 
 
